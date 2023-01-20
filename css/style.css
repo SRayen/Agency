@@ -104,7 +104,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: url(/images/frame.jpg) center center/cover
+    background: url(../images/frame.jpg) center center/cover
   }
   .vp-content {
     max-width: 800px;
